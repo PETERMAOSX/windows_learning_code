@@ -1,0 +1,1 @@
+o.pos = mul(UNITY_MVP,v.position); //转换到齐次裁剪坐标下
