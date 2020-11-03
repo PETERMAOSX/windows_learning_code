@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style type="text/css">
+        p{
+            width: 100px;
+            height: 100px;
+            background: #ff1f56;
+        }
+        p:hover{
+            -webkit-animation-duration: 500ms;
+            -moz-animation-duration: 500ms;
+            -moz-animation-duration: 500ms;
+            -o-animation-duration: 500ms;
+            animation-duration: 500ms;
+            animation-delay: 200ms;
+            -webkit-animation-name: maoshao;
+            -moz-animation-name: maoshao;
+            -o-animation-name: maoshao;
+            animation-name: maoshao;
+            animation-iteration-count:4;
+            animation-direction:alternate;
+
+        }
+        /*@keyframes maoshao{*/
+        /*    from{}*/
+        /*    to{}*/
+
+        /*}*/
+        @keyframes maoshao {
+
+            50%
+            {
+                background: blue;
+            }
+            75%
+            {
+                background: darkred;
+            }
+            to{
+                width: 200px;
+                height: 200px;
+                background: aliceblue;
+            }
+        }
+    </style>
+    <title>annimation</title>
+</head>
+<body>
+<p></p>
+</body>
+</html>

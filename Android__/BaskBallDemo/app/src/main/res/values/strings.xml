@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaskBallDemo</string>
+    <string name="teamAScore">A_Score</string>
+    <string name="BScore">B_Score</string>
+    <string name="ImageButtonA1">A+1</string>
+    <string name="ImageButtonA2">A+2</string>
+    <string name="ImageButtonB1">B+1</string>
+    <string name="ImageButtonB2">B+2</string>
+    <string name="ValueButton">Back</string>
+    <string name="ValueButton1">Reset</string>
+    <string name="team1">TeamA</string>
+    <string name="team2">TeamB</string>
+    <string name="A3">+3</string>
+</resources>

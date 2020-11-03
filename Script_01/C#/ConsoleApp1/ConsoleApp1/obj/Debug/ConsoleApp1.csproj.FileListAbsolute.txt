@@ -1,0 +1,7 @@
+K:\M_Resouse\程序练习\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+K:\M_Resouse\程序练习\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+K:\M_Resouse\程序练习\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+K:\M_Resouse\程序练习\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+K:\M_Resouse\程序练习\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+K:\M_Resouse\程序练习\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+K:\M_Resouse\程序练习\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

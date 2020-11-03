@@ -1,0 +1,25 @@
+//#include<stdio.h>
+//
+//struct queue {
+//	int data[101];
+//	int head;
+//	int tail;
+//};
+//
+//int main() {
+//	struct queue q;
+//	int i;
+//	q.head = 1;
+//	q.tail = 1;
+//	for (i = 1; i <= 9; i++) scanf_s("%d", &q.data[q.tail++]);
+//	while (q.head < q.tail) {
+//		printf("%d ", q.data[q.head]);
+//		q.head++;
+//		q.data[q.tail] = q.data[q.head];
+//		q.tail++;
+//		q.head++;
+//	}
+//	printf("\n");
+//	getchar(); getchar();
+//	return 0;
+//}
